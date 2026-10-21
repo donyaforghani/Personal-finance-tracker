@@ -7,7 +7,7 @@
 
 Welcome to my Finance Tracker project! This repository is more than just a financial tool; it represents my personal journey in software development. It started as a foundational Command Line Interface (CLI) script written entirely by me, and later evolved into a modern, interactive Web Application with the help of AI.
 
-![Dashboard Preview](https://via.placeholder.com/800x400/667eea/ffffff?text=Finance+Tracker+Dashboard+Preview)
+![Dashboard Preview](images/screencapture-127-0-0-1-5000-2026-10-21-11_09_13.png)
 
 ## 🚀 The Development Journey
 
