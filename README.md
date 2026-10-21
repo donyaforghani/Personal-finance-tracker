@@ -40,11 +40,9 @@ Once the core logic was solid, I leveraged AI to help me bridge the gap between 
 
 *(Note: Replace these placeholder images with actual screenshots of your app!)*
 
-### 🖥️ Dashboard View
-![Dashboard](https://via.placeholder.com/800x450/1e293b/ffffff?text=Dashboard+View)
 
 ### ➕ Adding a Transaction
-![Add Transaction](https://via.placeholder.com/800x450/0f172a/ffffff?text=Add+Transaction+Form)
+![Add Transaction](images/screencapture-127-0-0-1-5000-add-2026-10-21-11_09_35.png)
 
 ### 📊 Reports & Analytics
 ![Reports](https://via.placeholder.com/800x450/312e81/ffffff?text=Reports+and+Charts)
