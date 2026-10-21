@@ -45,7 +45,7 @@ Once the core logic was solid, I leveraged AI to help me bridge the gap between 
 ![Add Transaction](images/screencapture-127-0-0-1-5000-add-2026-10-21-11_09_35.png)
 
 ### 📊 Reports & Analytics
-![Reports](https://via.placeholder.com/800x450/312e81/ffffff?text=Reports+and+Charts)
+![Reports](images/screencapture-127-0-0-1-5000-report-2026-10-21-11_10_39.png)
 
 ## 🛠️ Tech Stack
 
